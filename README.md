@@ -1,2 +1,2 @@
 # reactnative-demo
-一个react-native+typescript+hooks的demo
+一个react-native+typescript+hooks的项目，聊天app
