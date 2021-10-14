@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">聊天</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">8aJGnngSAHY4-cO5lAZlwsLRh4e8JkEewHKTK</string>
+</resources>
